@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Multimodal Hub",
+  "description": "A comprehensive AI dashboard featuring real-time voice, image/video generation, search-grounded chat, and vision analysis using the latest Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
